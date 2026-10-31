@@ -1,9 +1,10 @@
 # context-brain · LLM Wiki
 
 > 维护人：刘君峰
-> 更新：2026-10-31（在 M9–M14 之后追加 M15–M18。逐字稿只在 raw）
+> 更新：2026-10-31（在 M9–M14 之后追加 M15–M18。逐字稿只在 raw。同日新增 Jeff 回答层入口，尚无回答文件）
 > 公开入口：https://jeff-codeer.github.io/context-brain/wiki/index.md
 > 规范：[../AGENTS.md](../AGENTS.md)
+> 回答层：[../raw/jeff-answers/README.md](../raw/jeff-answers/README.md)
 > 日志：[log.md](log.md)
 
 这是本仓库唯一的知识目录。先读本页，再按链接进入主题、人物或会议。智能纪要由 AI 生成，可能不准确；飞书页面为动态渲染，抓不到正文时以本仓库为准。
@@ -15,8 +16,17 @@
 | 目录 | 本文件 | 会议、主题、人物、未完成待办 |
 | 编译 | `wiki/meetings/` · `wiki/topics/` · `wiki/people/` | 给人和其他模型读的页面；具体文件见下方链接 |
 | 原始 | `raw/meetings/` | 入库后不改的纪要副本；单篇链接在每场会议下 |
+| 回答 | `raw/jeff-answers/` | Jeff 对每日十问的书面回答，与会议原始层同为事实来源。格式见 [../raw/jeff-answers/README.md](../raw/jeff-answers/README.md)。目前没有回答文件 |
 
 ---
+
+## Jeff 回答层
+
+Jeff 对每日十问的书面回答放在 `raw/jeff-answers/`，与 `raw/meetings/` 同为事实来源。入库后不改字；纠错另写更正条目。规范在 [AGENTS.md 第 7 节](../AGENTS.md)。目前没有回答文件，只有格式说明和空模板。
+
+- **格式与空模板**：[../raw/jeff-answers/README.md](../raw/jeff-answers/README.md)
+- **引用**：据 Jeff 答 YYYY-MM-DD #题号。写法示例：「据 Jeff 答 2026-11-01 #3」。示例不是已有回答。
+- **待办**：只有回答里写明某待办已完成，才可在编译层勾选，并注明该出处。现在没有这样的回答，下面的未完成待办都不因此勾选。
 
 ## 会议清单
 
@@ -413,3 +423,4 @@ M15 的四条、M17 的四条、M18 的两条都未勾选。M16 的待办节是�
 2. 先用上面的表定位会议编号，再打开对应主题页或会议页。
 3. 引用时写会议编号（如「据 M2」）。目录里没有的人名、数字和完成状态不要补。
 4. 要核对原句或读逐字稿时才打开 `raw/meetings/`。M1–M3 的 wiki 页含当时的短纪要；M4 起的 wiki 页只有提炼，不收录逐字稿。
+5. Jeff 回答层从本页「Jeff 回答层」进入。引用写「据 Jeff 答 YYYY-MM-DD #题号」。没有对应文件时，不要编造回答，也不要据此把待办说成已完成。
