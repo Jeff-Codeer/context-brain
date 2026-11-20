@@ -1,10 +1,10 @@
 # context-brain · LLM Wiki
 
 > 维护人：刘君峰
-> 更新：2026-11-20（入库 M27、M28、M29，以及 [Jeff 答 2026-11-14](../raw/jeff-answers/2026-11-14.md) 至 [2026-11-19](../raw/jeff-answers/2026-11-19.md)。此前的回答仍在）
+> 更新：2026-11-20（入库 M27、M28、M29，以及 [Jeff 答 2026-11-14](../raw/jeff-answers/2026-11-14.md) 至 [2026-11-19](../raw/jeff-answers/2026-11-19.md)；同日补进 [Jeff 答 2026-11-20](../raw/jeff-answers/2026-11-20.md)。此前的回答仍在）
 > 公开入口：https://jeff-codeer.github.io/context-brain/wiki/index.md
 > 规范：[../AGENTS.md](../AGENTS.md)
-> 回答层：[../raw/jeff-answers/2026-10-31.md](../raw/jeff-answers/2026-10-31.md) · [../raw/jeff-answers/2026-11-01.md](../raw/jeff-answers/2026-11-01.md) · [../raw/jeff-answers/2026-11-05.md](../raw/jeff-answers/2026-11-05.md) · [../raw/jeff-answers/2026-11-06.md](../raw/jeff-answers/2026-11-06.md) · [../raw/jeff-answers/2026-11-07.md](../raw/jeff-answers/2026-11-07.md) · [../raw/jeff-answers/2026-11-08.md](../raw/jeff-answers/2026-11-08.md) · [../raw/jeff-answers/2026-11-09.md](../raw/jeff-answers/2026-11-09.md) · [../raw/jeff-answers/2026-11-10.md](../raw/jeff-answers/2026-11-10.md) · [../raw/jeff-answers/2026-11-11.md](../raw/jeff-answers/2026-11-11.md) · [../raw/jeff-answers/2026-11-12.md](../raw/jeff-answers/2026-11-12.md) · [../raw/jeff-answers/2026-11-13.md](../raw/jeff-answers/2026-11-13.md) · [../raw/jeff-answers/2026-11-14.md](../raw/jeff-answers/2026-11-14.md) · [../raw/jeff-answers/2026-11-15.md](../raw/jeff-answers/2026-11-15.md) · [../raw/jeff-answers/2026-11-16.md](../raw/jeff-answers/2026-11-16.md) · [../raw/jeff-answers/2026-11-17.md](../raw/jeff-answers/2026-11-17.md) · [../raw/jeff-answers/2026-11-18.md](../raw/jeff-answers/2026-11-18.md) · [../raw/jeff-answers/2026-11-19.md](../raw/jeff-answers/2026-11-19.md)
+> 回答层：[../raw/jeff-answers/2026-10-31.md](../raw/jeff-answers/2026-10-31.md) · [../raw/jeff-answers/2026-11-01.md](../raw/jeff-answers/2026-11-01.md) · [../raw/jeff-answers/2026-11-05.md](../raw/jeff-answers/2026-11-05.md) · [../raw/jeff-answers/2026-11-06.md](../raw/jeff-answers/2026-11-06.md) · [../raw/jeff-answers/2026-11-07.md](../raw/jeff-answers/2026-11-07.md) · [../raw/jeff-answers/2026-11-08.md](../raw/jeff-answers/2026-11-08.md) · [../raw/jeff-answers/2026-11-09.md](../raw/jeff-answers/2026-11-09.md) · [../raw/jeff-answers/2026-11-10.md](../raw/jeff-answers/2026-11-10.md) · [../raw/jeff-answers/2026-11-11.md](../raw/jeff-answers/2026-11-11.md) · [../raw/jeff-answers/2026-11-12.md](../raw/jeff-answers/2026-11-12.md) · [../raw/jeff-answers/2026-11-13.md](../raw/jeff-answers/2026-11-13.md) · [../raw/jeff-answers/2026-11-14.md](../raw/jeff-answers/2026-11-14.md) · [../raw/jeff-answers/2026-11-15.md](../raw/jeff-answers/2026-11-15.md) · [../raw/jeff-answers/2026-11-16.md](../raw/jeff-answers/2026-11-16.md) · [../raw/jeff-answers/2026-11-17.md](../raw/jeff-answers/2026-11-17.md) · [../raw/jeff-answers/2026-11-18.md](../raw/jeff-answers/2026-11-18.md) · [../raw/jeff-answers/2026-11-19.md](../raw/jeff-answers/2026-11-19.md) · [../raw/jeff-answers/2026-11-20.md](../raw/jeff-answers/2026-11-20.md)
 > 本体：[ontology/本体.md](ontology/本体.md)
 > 日志：[log.md](log.md)
 
@@ -17,7 +17,7 @@
 | 目录 | 本文件 | 会议、主题、人物、未完成待办 |
 | 编译 | `wiki/meetings/` · `wiki/topics/` · `wiki/people/` | 给人和其他模型读的页面；具体文件见下方链接 |
 | 原始 | `raw/meetings/` | 入库后不改的纪要副本；单篇链接在每场会议下 |
-| 回答 | `raw/jeff-answers/` | Jeff 对每日十问的书面回答，与会议原始层同为事实来源。格式见 [../raw/jeff-answers/README.md](../raw/jeff-answers/README.md)。已入库 [2026-10-31](../raw/jeff-answers/2026-10-31.md) 至 [2026-11-19](../raw/jeff-answers/2026-11-19.md)，中间日期见上面的回答层链接 |
+| 回答 | `raw/jeff-answers/` | Jeff 对每日十问的书面回答，与会议原始层同为事实来源。格式见 [../raw/jeff-answers/README.md](../raw/jeff-answers/README.md)。已入库 [2026-10-31](../raw/jeff-answers/2026-10-31.md) 至 [2026-11-20](../raw/jeff-answers/2026-11-20.md)，中间日期见上面的回答层链接 |
 | 本体 | `wiki/ontology/` | 实体、关系和带时间的事实。说明见 [ontology/本体.md](ontology/本体.md)，事实表见 [ontology/facts.md](ontology/facts.md) |
 
 ---
@@ -26,10 +26,10 @@
 
 Jeff 对每日十问的书面回答放在 `raw/jeff-answers/`，与 `raw/meetings/` 同为事实来源。入库后不改字；纠错另写更正条目。规范在 [AGENTS.md 第 7 节](../AGENTS.md)。
 
-- **已入库**：[../raw/jeff-answers/2026-10-31.md](../raw/jeff-answers/2026-10-31.md)（#1、#2、#3、#3 追问、#4、#5、#6）；[../raw/jeff-answers/2026-11-01.md](../raw/jeff-answers/2026-11-01.md)（#1、#1 追问、#2–#10，以及追加（同日稍后））；[../raw/jeff-answers/2026-11-05.md](../raw/jeff-answers/2026-11-05.md)（#1、#2、#3，以及追加（同日稍后）的名字校准）；[../raw/jeff-answers/2026-11-06.md](../raw/jeff-answers/2026-11-06.md)（#1、#2、#3）；[../raw/jeff-answers/2026-11-07.md](../raw/jeff-answers/2026-11-07.md) 至 [../raw/jeff-answers/2026-11-13.md](../raw/jeff-answers/2026-11-13.md)（各日 #1、#2、#3。2026-11-11 另有一句较早的「大概率」，正式 #3 已确认，wiki 不再写成推定。2026-11-11 的草稿没有题干，不编造问题原文）；[../raw/jeff-answers/2026-11-14.md](../raw/jeff-answers/2026-11-14.md) 至 [../raw/jeff-answers/2026-11-19.md](../raw/jeff-answers/2026-11-19.md)（各日 #1、#2、#3。2026-11-16 的 #2、2026-11-17 的 #1 与 #2 另有补答，不覆盖前话。2026-11-18、2026-11-19 的草稿没有完整题干，不编造问题原文）
+- **已入库**：[../raw/jeff-answers/2026-10-31.md](../raw/jeff-answers/2026-10-31.md)（#1、#2、#3、#3 追问、#4、#5、#6）；[../raw/jeff-answers/2026-11-01.md](../raw/jeff-answers/2026-11-01.md)（#1、#1 追问、#2–#10，以及追加（同日稍后））；[../raw/jeff-answers/2026-11-05.md](../raw/jeff-answers/2026-11-05.md)（#1、#2、#3，以及追加（同日稍后）的名字校准）；[../raw/jeff-answers/2026-11-06.md](../raw/jeff-answers/2026-11-06.md)（#1、#2、#3）；[../raw/jeff-answers/2026-11-07.md](../raw/jeff-answers/2026-11-07.md) 至 [../raw/jeff-answers/2026-11-13.md](../raw/jeff-answers/2026-11-13.md)（各日 #1、#2、#3。2026-11-11 另有一句较早的「大概率」，正式 #3 已确认，wiki 不再写成推定。2026-11-11 的草稿没有题干，不编造问题原文）；[../raw/jeff-answers/2026-11-14.md](../raw/jeff-answers/2026-11-14.md) 至 [../raw/jeff-answers/2026-11-19.md](../raw/jeff-answers/2026-11-19.md)（各日 #1、#2、#3。2026-11-16 的 #2、2026-11-17 的 #1 与 #2 另有补答，不覆盖前话。2026-11-18、2026-11-19 的草稿没有完整题干，不编造问题原文）；[../raw/jeff-answers/2026-11-20.md](../raw/jeff-answers/2026-11-20.md)（#1、#2、#3。查证和维护说明另列，不写进原话。没有写任何待办已完成）
 - **格式与空模板**：[../raw/jeff-answers/README.md](../raw/jeff-answers/README.md)
-- **引用**：据 Jeff 答 YYYY-MM-DD #题号。已有的引用例如「据 Jeff 答 2026-11-01 #3」「据 Jeff 答 2026-11-01 追加（同日稍后）」「据 Jeff 答 2026-11-05 #1」「据 Jeff 答 2026-11-05 名字校准」「据 Jeff 答 2026-11-06 #1」「据 Jeff 答 2026-11-07 #1」「据 Jeff 答 2026-11-13 #3」「据 Jeff 答 2026-11-14 #1」「据 Jeff 答 2026-11-15 #1」「据 Jeff 答 2026-11-16 #2 补答」「据 Jeff 答 2026-11-18 #2」「据 Jeff 答 2026-11-19 #1」。
-- **待办**：只有回答里写明某待办已完成，才可在编译层勾选，并注明该出处。2026-10-31 至 2026-11-19 的回答都没有写任何待办已完成，下面的未完成待办都不因此勾选。
+- **引用**：据 Jeff 答 YYYY-MM-DD #题号。已有的引用例如「据 Jeff 答 2026-11-01 #3」「据 Jeff 答 2026-11-01 追加（同日稍后）」「据 Jeff 答 2026-11-05 #1」「据 Jeff 答 2026-11-05 名字校准」「据 Jeff 答 2026-11-06 #1」「据 Jeff 答 2026-11-07 #1」「据 Jeff 答 2026-11-13 #3」「据 Jeff 答 2026-11-14 #1」「据 Jeff 答 2026-11-15 #1」「据 Jeff 答 2026-11-16 #2 补答」「据 Jeff 答 2026-11-18 #2」「据 Jeff 答 2026-11-19 #1」「据 Jeff 答 2026-11-20 #1」「据 Jeff 答 2026-11-20 #2」「据 Jeff 答 2026-11-20 #3」。
+- **待办**：只有回答里写明某待办已完成，才可在编译层勾选，并注明该出处。2026-10-31 至 2026-11-20 的回答都没有写任何待办已完成，下面的未完成待办都不因此勾选。
 - **本体**：[ontology/本体.md](ontology/本体.md)，事实表 [ontology/facts.md](ontology/facts.md)。规范在 [AGENTS.md 第 8 节](../AGENTS.md)。
 
 ## 会议清单
@@ -303,7 +303,7 @@ Jeff 对每日十问的书面回答放在 `raw/jeff-answers/`，与 `raw/meeting
 ### M25 · 企业AI组织架构落地相关讨论
 
 - **日期/时长**：2026-11-08，1 小时 3 分 22 秒。逐字稿头 2026-11-07 21:00:47 CST，不记成另一个开会时间
-- **一句话**：用 AI 改企业组织的分享。优先做大型企业和 VC 投后企业，制造业另说。末章写无关键决策，同时又列了共识。待办节是空的。不并进 M1、M5。
+- **一句话**：用 AI 改企业组织的分享。优先做大型企业和 VC 投后企业，制造业另说。末章写无关键决策，同时又列了共识。待办节是空的。不并进 M1、M5。汉尼斯等写法应该是 harness，CrowdTap 与 Cloud type 应该是 claude tag，选题按字面保留，据 Jeff 答 2026-11-20，都不写成已确认。
 - **主题**：[企业 AI 组织架构](topics/企业AI组织架构.md)
 - **人物**：摘要、章节和待办没有点名。说话人 2 不建页。逐字稿里的德胜、王德胜、杜云斗、伟亚、李阿友、李航友不建页，也不互相归并
 - **标签**：`组织架构` `Agent` `试点`
@@ -347,7 +347,7 @@ Jeff 对每日十问的书面回答放在 `raw/jeff-answers/`，与 `raw/meeting
 ### M29 · 企业AI转型FDE解决方案交流讨论
 
 - **日期/时长**：2026-11-16，15:04-16:01 GMT+08，56 分 57 秒。逐字稿头 2026-11-16 19:12:46 CST 更像导出时间
-- **一句话**：管俊一方分享 FDE 和 Hatch。关键决策节写无关键决策。待办节为空。不并进 M1、M5、M25。
+- **一句话**：管俊一方分享 FDE 和 Hatch。关键决策节写无关键决策。待办节为空。不并进 M1、M5、M25。章节 Cloudtag 不归并进 M25 的 CrowdTap 或 claude tag。
 - **主题**：[FDE 解决方案](topics/FDE解决方案.md)
 - **人物**：[管俊](people/管俊.md)。[李爽](people/李爽.md)只在末章。李飞飞、德盛、说话人 N 不建页。本场 Hatch 不改写成 hat7ch
 - **标签**：`FDE` `Hatch` `ANC` `分享`
@@ -362,7 +362,7 @@ Jeff 对每日十问的书面回答放在 `raw/jeff-answers/`，与 `raw/meeting
 | 主题 | 页面 | 会议 | 目录中的状态 |
 |---|---|---|---|
 | 企业 AI 转型 | [企业AI转型](topics/企业AI转型.md) | M1、M5；[M9](topics/企业AI转型.md#m9-ai-岗位招聘) 只是招聘同步 | M1 作战地图仍未勾选；M5 先做上下文、评测、控制面；控制面也要管审计、拦截，据 Jeff 答 2026-11-05 #2，raw 狭义权限、身份仍并列；M9 没有把这两件写成完成。M25、M29 不并进本页 |
-| 企业 AI 组织架构 | [企业AI组织架构](topics/企业AI组织架构.md) | M25 | 分享会。待办节是空的。公司正名 hat7ch，据 Jeff 答 2026-11-18 #2。ANC 是 AI Native Company，据 #3。记录贡献处的 AAC 可能是 ANC，据 Jeff 答 2026-11-19 #1，不套到全部 AAC。Hermes 应该是 harness。Enterprise 四个写法可能都对，他未参加该会。不并进 M1、M5。M29 不并进本页 |
+| 企业 AI 组织架构 | [企业AI组织架构](topics/企业AI组织架构.md) | M25 | 分享会。待办节是空的。公司正名 hat7ch，据 Jeff 答 2026-11-18 #2。ANC 是 AI Native Company，据 #3。记录贡献处的 AAC 可能是 ANC，据 Jeff 答 2026-11-19 #1，不套到全部 AAC。Hermes，以及汉尼斯、帕尼斯、哈尼斯、hardness 和逐字稿「应该叫compaction」，应该是同一个 harness，据 Jeff 答 2026-11-19 #2 与 2026-11-20 #1，保留「应该是」。CrowdTap 与 Cloud type 应该是 claude tag，据 2026-11-20 #2，不写成已确认；Crowd 不并进去。选题按字面保留，不合并为选型，据 #3。Enterprise 四个写法可能都对，他未参加该会。不并进 M1、M5。M29 不并进本页 |
 | 主数据治理 | [企业AI转型 · 主数据治理](topics/企业AI转型.md#主数据治理) | M1；M5 只说明它和控制面分开 | 不单独立项；围绕主体、客体、动作 |
 | 车型可诊断性 | [车型可诊断性](topics/车型可诊断性.md) | M2、M3、M4、M6；M7 只有诊断仪和二行；[M8](topics/车型可诊断性.md#m8-诊断业务进展)；[M10 末章](topics/车型可诊断性.md#m10-功能层埋点)；[M11](topics/车型可诊断性.md#m11-工单诊断)；[M13](topics/车型可诊断性.md#m13-智驾与十二条月度计划)；[M14](topics/车型可诊断性.md#m14-售后工单表与收益测算)；[M15](topics/车型可诊断性.md#m15-alert-落地规划)；[M17 Alert 一段](topics/车型可诊断性.md#m17-alert-评优)；[M19](topics/车型可诊断性.md#m19-智能诊断分工)；[M20](topics/车型可诊断性.md#m20-埋点开发推进)；[M26](topics/车型可诊断性.md#m26-智能开单)；[M27](topics/车型可诊断性.md#m27-工具与-dste)；[M28](topics/车型可诊断性.md#m28-hc-汇报) | M14 金额是同一套口径往上加域算出的，据 Jeff 答 2026-11-01 #9，生效日 2026-11-01，数字不收成同一个数。M8 与 M13 三条线是同一套，据 #8。6%、40%、三十几仍并列，准数要看场景，据 #5。Alert 授权还没定，据 #7。70% 和 30 分钟出头是现状；95% 和 25 分钟是对标特斯拉（Jeff 推断，据 Jeff 答 2026-10-31 #6）；诊断时长目标压到 25 分钟，据 #10。M15 云端分析与云端预诊断是同一层，据 Jeff 答 2026-11-12 #2，措辞仍留着。M17 的 27 例两种说法保留，据 Jeff 答 2026-10-31 #1 不冲突。P0 按 Jeff 答 2026-11-05 #1 选 B，不算「新车型新功能」；题目选项与所指向的 2026-10-28 raw 不完全对应，M11 摘要里的「新车型新功能」不删。M19 纪要的 1.0/2.0/3.0 三种说法仍并列；含义据 Jeff 答 2026-11-06 #1，「多A架构」不展开。L1 看现象、L2 根因、L3 处置，据 Jeff 答 2026-11-06 #2。M20 三个 P0 标准纪要未列；据 Jeff 答 2026-11-06 #3 是高频、高危、高客户感知度，「好像FMEA」不是核实定义，不取代 F45。田世斌、田士斌、田志斌是田时兵的纪要变体，佳希是佳熙的纪要变体，据 Jeff 答 2026-11-05 名字校准。两场待办未勾选 |
 | 车型：昆仑 | [车型：昆仑](topics/车型-昆仑.md) | M6、M15、M16、M17、M18、M21；M22、M23 记写法和校准 | 昆仑是内部代号，也是空间平台，据 Jeff 答 2026-11-10 #2。小米澎程就是昆仑。M16 的座舱昆仑／昆仑过信通院 L3，指车型昆仑，其座舱过证，据 Jeff 答 2026-11-14 #1。M22 爆胎首发的正确名字是澎程，据 Jeff 答 2026-11-07 #3。M21 的征程应该是澎程，据 Jeff 答 2026-11-11 #2。M23「预期昆仑」不是另一款车，Z09 是 RC09，不是车型。子车型 N1–N3 与 EEA 仍分两表。M26 的 1.0／1.5／2.0 是电子架构，不改昆仑搭载 2.0 那句。摩德纳、苏七不自行归并 |
@@ -385,7 +385,7 @@ Jeff 对每日十问的书面回答放在 `raw/jeff-answers/`，与 `raw/meeting
 | 铸融一体化检测 | [铸融一体化检测](topics/铸融一体化检测.md) | M24 | 开会日 2026-10-30。铸融是大压铸智能化系统的名字。漏减率按漏检率。助融不宣布为同一个词。钢铁侠只是比喻，据 Jeff 答 2026-11-16 #3。D-MAC／D- MAC 是 DMAIC 的听写，据 #2 补答，前句「需要更多上下文」保留。大家住应该是大压铸，据 Jeff 答 2026-11-17 #3，保留「应该是」。瘦身 70% 和剩余 30% 左右并列。待办未勾选 |
 | 智能开单 | [智能开单](topics/智能开单.md) | M26；M27 只收对接一段 | 田老师发起，就是田时兵，据 Jeff 答 2026-11-15 #1。五条待办未勾选。原诊就是远诊，据 Jeff 答 2026-11-16 #1。正名 TIS，据 Jeff 答 2026-11-15 #2。1.0 是老款 SU7，1.5 后来变成 2.0、即老款 YU7。M27 的本周对接未勾选。图表不编造 |
 | 汽车部 DSTE 与 HC | [汽车部 DSTE 与 HC](topics/汽车部DSTE与HC.md) | M27、M28 | 周六启动会筹备。座舱 21 人、智驾 5 人、工程部 9 人、架构部摘要写申报 3 人。Alert 和 Allest 并列。待办未勾选。当天、今晚、本周五之前已过，标待核对。周六是 2026-11-21，还没到。不并进项目评优答辩 |
-| FDE 解决方案 | [FDE 解决方案](topics/FDE解决方案.md) | M29 | 管俊一方的分享。待办节为空。无关键决策和试点句子并列。本场 Hatch 不改写成 hat7ch。不并进 M1、M5、M25：那是内部底座或另一场组织架构分享 |
+| FDE 解决方案 | [FDE 解决方案](topics/FDE解决方案.md) | M29 | 管俊一方的分享。待办节为空。无关键决策和试点句子并列。本场 Hatch 不改写成 hat7ch。章节 Cloudtag 与 M25 的 CrowdTap、Cloud type 只并列，不归并进 claude tag。不并进 M1、M5、M25：那是内部底座或另一场组织架构分享 |
 
 ## 人物索引
 
@@ -649,4 +649,4 @@ M27 的十五条、M28 的十条都未勾选。没有把上面任何一条写成
 2. 先用上面的表定位会议编号，再打开对应主题页或会议页。
 3. 引用时写会议编号（如「据 M2」）。目录里没有的人名、数字和完成状态不要补。
 4. 要核对原句或读逐字稿时才打开 `raw/meetings/`。M1–M3 的 wiki 页含当时的短纪要；M4 起的 wiki 页只有提炼，不收录逐字稿。
-5. Jeff 回答层从本页「Jeff 回答层」进入。引用写「据 Jeff 答 YYYY-MM-DD #题号」。已有 [2026-10-31](../raw/jeff-answers/2026-10-31.md) 至 [2026-11-19](../raw/jeff-answers/2026-11-19.md)。没有对应文件时，不要编造回答，也不要据此把待办说成已完成。本体从 [ontology/本体.md](ontology/本体.md) 进入，事实以 [ontology/facts.md](ontology/facts.md) 为准。车型内部代号和市场销售名分开，见昆仑、SU7、YU7、LUX、Mann。M29 不并进 M1、M5、M25。
+5. Jeff 回答层从本页「Jeff 回答层」进入。引用写「据 Jeff 答 YYYY-MM-DD #题号」。已有 [2026-10-31](../raw/jeff-answers/2026-10-31.md) 至 [2026-11-20](../raw/jeff-answers/2026-11-20.md)。没有对应文件时，不要编造回答，也不要据此把待办说成已完成。本体从 [ontology/本体.md](ontology/本体.md) 进入，事实以 [ontology/facts.md](ontology/facts.md) 为准。车型内部代号和市场销售名分开，见昆仑、SU7、YU7、LUX、Mann。M29 不并进 M1、M5、M25。

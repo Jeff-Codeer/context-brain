@@ -16,7 +16,7 @@
 - 管俊在章节里自我介绍。摘要没有写出这个名字。公益咨询社群和 ABC 美好咨询社群并列。上海及江西商会和沪赣商会并列。
 - Hatch 是摘要里的方案框架。不改写成 hat7ch。
 - ANC 是本场的组织叫法。M25 的 ANC 是 AI Native Company，据 Jeff 答 2026-11-18 #3，不是产品或系统专名。不把本场 ANC 自动套成 M25 记录贡献处那个 AAC。
-- Coze：摘要写已停止服务，章节写已关停。章节另有 Dify、Cloudtag。Cloudtag 不收成 Crowd。
+- Coze：摘要写已停止服务，章节写已关停。章节另有 Dify、Cloudtag。Cloudtag 不收成 Crowd。也不归并进 M25 的 CrowdTap、Cloud type 或 claude tag。M25 那边据 Jeff 答 2026-11-20 #2 应该是 claude tag，保留「应该是」。两处并列。
 - 章节标题 Rop Engineering，正文 Roop Engineering。摘要没有这两个拼写。
 - 六阶段、DRI、IC、20–30 人、人类保障协议、AI 向善，按会议页的出处引用。不把 M25 的人力保障协议和人类保障协议收成已经被本场改掉。
 - 末章写 5 点对接李爽。摘要只写 5 点，没有李爽。这个钟点已经过了，不是勾选框，标待核对。
