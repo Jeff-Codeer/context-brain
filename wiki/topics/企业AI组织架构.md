@@ -3,7 +3,7 @@
 - **状态**：M25 是一场分享。待办节是空的。末章写无关键决策，同时又列了共识。不并进 [企业 AI 转型](企业AI转型.md) 的作战地图、三个底座或招聘。M29 是另一场 FDE 分享，不并进本页，见 [FDE 解决方案](FDE解决方案.md)。
 - **来源**：M25（2026-11-08，1 小时 3 分 22 秒；逐字稿头 2026-11-07 21:00:47 CST，不记成另一个开会时间）
 - **会议**：[M25](../meetings/2026-11-08-企业AI组织架构落地相关讨论.md)
-- **人物**：摘要、章节和待办没有点名。说话人 2 不建页
+- **人物**：摘要、章节和待办没有点名。说话人 2 不建页。逐字稿里的德胜、王德胜、德正见 [德胜](../people/德胜.md)，不并入 [王胜](../people/王胜.md)。李阿友、李航友、康特斯不建页
 
 智能纪要由 AI 生成，可能不准确。
 
@@ -15,7 +15,7 @@
 - 客户：摘要写知名大型企业和 VC 投后企业，十几万试点成本；暂不重点拓展制造业。章节写十几万试错成本。末章写头部大型企业、VC 投后企业，暂不向中大型企业全量售卖。制造业和中大型企业并列。逐字稿另有 10 万、20 万，不和十几万收成一个数。
 - 盈利：摘要写咨询、Enterprise 级系统交付、业务人员操作培训。末章写咨询服务、产品售卖、企业员工培训。
 - 权限：摘要写 Agent Prompt，按 DRI、IC 动态管控，不做全公司级硬代码权限，并做全链路监控。章节写 Prompt 约束、硬代码局限、事后监测。末章写当前是小范围试点加事后行为监控。
-- 章节另有 ANC、Hatch、Hermes、Crowd、CrowdTap、AAC。摘要没有这些名字。逐字稿写 Hash。公司正名是 hat7ch，含数字 7，据 Jeff 答 2026-11-18 #2。原话：「hat7ch这家公司，是这个名字。」Hash、hatch、Hatch 留在纪要里。M29 的 Hatch 不改写成 hat7ch。ANC 是 AI Native Company，据 #3，原话「ANC是ai native company的意思」，不是产品或系统专名。记录贡献处的 AAC 可能是 ANC，据 Jeff 答 2026-11-19 #1，原话「ANC吧？」，不写成已经确认，也不套到同场所有 AAC。Hermes 应该是 harness，据 #2，原话「应该是harness，Agent的驾驭治理。」同场「汉尼斯」「帕尼斯」「哈尼斯」「hardness」，以及逐字稿「在 harness 我们叫，应该叫compaction」，应该是同一个 harness，据 Jeff 答 2026-11-20 #1，原话「应该是harness」。保留「应该是」，不写成已确认。compaction 按逐字稿保留，不猜成别的词。Enterprise History、Enterprise Honest、Enterprise money、Enterprise Finance 可能都对，他未参加该会，据 2026-11-19 #3，原词保留，不合并。CrowdTap 与紧接着的 Cloud type 应该是 claude tag，据 2026-11-20 #2，原话「应该是claude tag？你查一下是不是有这样一个产品」。保留「应该是」和问号。公开产品 Claude Tag 是维护查证，不写成已确认的唯一定论。Crowd 是另一个例子（每天发榜派任务、金币药水），不并成 Anthropic 或 Claude Tag，也不编一家公司。更早的市场调研产品 CrowdTap（后改名 Suzy）已排除。M29 的 Cloudtag 只并列，不归并。逐字稿「选题」与「选型」仍并列。据 #3，原话是「字面意思应该是」。先按字面保留「选题」，不合并为「选型」，不写成已确认的听写错误。
+- 章节另有 ANC、Hatch、Hermes、Crowd、CrowdTap、AAC。摘要没有这些名字。逐字稿写 Hash。公司正名是 hat7ch，含数字 7，据 Jeff 答 2026-11-18 #2。原话：「hat7ch这家公司，是这个名字。」Hash、hatch、Hatch 留在纪要里。M29 的 Hatch 不改写成 hat7ch。ANC 是 AI Native Company，据 #3，原话「ANC是ai native company的意思」，不是产品或系统专名。记录贡献处的 AAC 可能是 ANC，据 Jeff 答 2026-11-19 #1，原话「ANC吧？」，不写成已经确认，也不套到同场所有 AAC。Hermes 应该是 harness，据 #2，原话「应该是harness，Agent的驾驭治理。」同场「汉尼斯」「帕尼斯」「哈尼斯」「hardness」，以及逐字稿「在 harness 我们叫，应该叫compaction」，应该是同一个 harness，据 Jeff 答 2026-11-20 #1，原话「应该是harness」。保留「应该是」，不写成已确认。compaction 按逐字稿保留，不猜成别的词。哈尼斯肯定是 harness，据 Jeff 答 2026-11-26 #3，原话「哈尼斯肯定harness，康特斯不知道是哪个」。只把哈尼斯写得更明确。康特斯不知道是哪个，不猜、不建页。本场 FD 应该就是 FDE，据 Jeff 答 2026-11-25 #1，原话「应该就是FDE。」只限这场问到的 FD。那句 FE 也是在说 FDE，应该听写写错，据 #2，只限该语境。AS、AEC、ASC 应该是 ANC 架构，据 #3，原话「应该是ANC架构吧，ai native company的意思。」保留「应该是」「吧」，不收成单一拼写，也不推断打电话的那个 AEC 是人还是架构名。德胜、王德胜、德正以及 M29 的德盛归德胜，据 Jeff 答 2026-11-23 #2 与 2026-11-26 #1。李阿友和李航友应该是同一个人，名字不清楚哪个对，据 2026-11-26 #2，不建页。Enterprise History、Enterprise Honest、Enterprise money、Enterprise Finance 可能都对，他未参加该会，据 2026-11-19 #3，原词保留，不合并。CrowdTap 与紧接着的 Cloud type 应该是 claude tag，据 2026-11-20 #2，原话「应该是claude tag？你查一下是不是有这样一个产品」。保留「应该是」和问号。公开产品 Claude Tag 是维护查证，不写成已确认的唯一定论。Crowd 是另一个例子（每天发榜派任务、金币药水），不并成 Anthropic 或 Claude Tag，也不编一家公司。更早的市场调研产品 CrowdTap（后改名 Suzy）已排除。M29 的 Cloudtag 只并列，不归并。逐字稿「选题」与「选型」仍并列。据 #3，原话是「字面意思应该是」。先按字面保留「选题」，不合并为「选型」，不写成已确认的听写错误。
 - 摘要写人力保障协议、AI 向善。章节写人类保障协议。末章写 AI 向上。协议的两个字、向善和向上，都并列。
 - 末章写无关键决策，同时又列出客户、产品和权限上的共识。两句都留着。
 
